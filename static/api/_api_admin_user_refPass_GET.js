@@ -1,0 +1,1 @@
+const Mock = require("mockjs"); module.exports = {"GET /api/admin/user/refPass?id=2": Mock.mock({"code":0,"info":"\u6210\u529f","data":{"sysMsg":"\u91cd\u7f6e\u6210\u529f\uff0c\u91cd\u7f6e\u5bc6\u7801\u4e3a123456789"},"url":""})};

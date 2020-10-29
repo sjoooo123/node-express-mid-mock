@@ -1,0 +1,1 @@
+const Mock = require("mockjs"); module.exports = {"GET /api/admin/advance/outRoom?id=22&is_card=0&is_pen=0&is_spoon=0&remark=": Mock.mock({"code":404,"info":"\u6ca1\u6709\u627e\u5230\u9875\u9762","data":[],"url":""})};

@@ -1,0 +1,1 @@
+const Mock = require("mockjs"); Mock.mock("/api/admin/role/aLists",{"code":0,"info":"\u6210\u529f","data":[{"id":1,"role_name":"\u7ba1\u7406\u5c97","rules_txt":""},{"id":2,"role_name":"\u8fd0\u7ef4\u5c97","rules_txt":""},{"id":3,"role_name":"\u76d1\u63a7\u5c97","rules_txt":""},{"id":4,"role_name":"\u5b89\u4fdd\u5c97","rules_txt":""}],"url":""});

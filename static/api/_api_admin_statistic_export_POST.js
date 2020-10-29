@@ -1,0 +1,1 @@
+const Mock = require("mockjs"); module.exports = {"POST /api/admin/statistic/export": Mock.mock({"code":0,"info":"\u6210\u529f","data":{"file":"\/static\/export\/\u59d4\u673a\u5173\u8c08\u8bdd\u573a\u6240\u8fdb\u51fa\u4eba\u5458\u7edf\u8ba12020-10-01~2020-10-23.xls"},"url":""})};

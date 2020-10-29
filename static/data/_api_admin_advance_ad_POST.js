@@ -1,0 +1,1 @@
+const Mock = require("mockjs"); Mock.mock("/api/admin/advance/ad",{"code":0,"info":"\u6210\u529f","data":[],"url":""});

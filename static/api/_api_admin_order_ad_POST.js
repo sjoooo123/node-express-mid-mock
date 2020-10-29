@@ -1,0 +1,1 @@
+const Mock = require("mockjs"); module.exports = {"POST /api/admin/order/ad": Mock.mock({"code":0,"info":"\u6210\u529f","data":[],"url":""})};

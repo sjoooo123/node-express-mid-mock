@@ -1,0 +1,1 @@
+const Mock = require("mockjs"); module.exports = {"GET /api/admin/advance/confirmUse?id=39": Mock.mock({"code":0,"info":"\u6210\u529f","data":[],"url":""})};
